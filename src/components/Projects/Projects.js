@@ -36,7 +36,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Triangles"
               description="CANVAS Triangles"
               ghLink="https://github.com/coderxone/globe"
               demoLink="https://skybot.dev"
